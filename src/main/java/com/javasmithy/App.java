@@ -20,7 +20,6 @@ public class App {
 
         );
 
-        System.out.println(Game.twoOfAKind(app.getCards()));
     }
 
     public static Card parseArgToCard(String arg){
